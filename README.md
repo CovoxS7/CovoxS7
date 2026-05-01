@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-I am a Frontend Developer (React) from Germany  
+I am a Frontend Developer from Germany  
 
 🔭 Working in a digital agency and building frontend applications  
 🎓 Dual student in media informatics  
@@ -22,6 +22,11 @@ I am a Frontend Developer (React) from Germany
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/> 
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CovoxS7&theme=highcontrast)](https://git.io/streak-stats)
 <!--
 **CovoxS7/CovoxS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
