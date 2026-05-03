@@ -26,9 +26,14 @@ I am a Frontend Developer from Germany
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CovoxS7&theme=highcontrast)](https://git.io/streak-stats)
+![](https://github.com/covoxs7/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/covoxs7/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
 <!--
 **CovoxS7/CovoxS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CovoxS7&theme=highcontrast)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
